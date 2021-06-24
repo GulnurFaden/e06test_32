@@ -1,3 +1,7 @@
 file1 change 1
 file1 change 2 
+<<<<<<< HEAD
 file1 change in my computer
+=======
+file1 change from github
+>>>>>>> 5656fd674082593c0883d33885905da31b340748
